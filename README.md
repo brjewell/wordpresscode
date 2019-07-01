@@ -1,2 +1,2 @@
 # wordpresscode
-My Wordpress experiments
+My Wordpress experiments with some new text I added.
